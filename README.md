@@ -1,7 +1,10 @@
-- Predios (kml) -> (csv) Análisis de características principales
-- Extracción "papers" según características principales: Dataset texto
-- Análisis de texto (tokenización)
-- Vectorización y clusterización + palabras principales por cluster
-- Visualización de resultados predios: mapa con geojson, gráficos descriptivos (superficie, composición, etc)
-- Visualización de resultados texto: clusterización, palabras principales asociados a cada uno
-  
+Archivos: Dataset Predios, Publicaciones Científicas, Especies y Países
+
+Códigos para generar datasets:
+Extracción coordenadas y otros desde kml a csv : Dataset predios
+Extracción citas publicaciones científicas desde pubmed con entrez
+
+Código NLP + Visualización:
+Dash V2
+
+Código de Validación
