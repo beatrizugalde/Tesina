@@ -18,6 +18,7 @@ Este proyecto busca identificar tendencias de investigación científica para di
 -Extracción citas publicaciones científicas desde pubmed con entrez  
 -Código NLP + Visualización:  
 
+Archivo reqirements.txt contiene las librerías necesarias para generar un entorno virtual.
 
 Licencia MIT
 
